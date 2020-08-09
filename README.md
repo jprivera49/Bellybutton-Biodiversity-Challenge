@@ -8,12 +8,15 @@ Build a dashboard based on data from different bacteria found in the people's be
 
 ### Full Page
 ![Screenshot](https://raw.githubusercontent.com/jprivera49/Bellybutton-Biodiversity-Challenge/master/bellybutton%20diodiversity%20screenshot.PNG)
+-------------------------------------------------------------------------------------------------------------------------
 
 ### Bar Chart
 ![bar_chart](https://raw.githubusercontent.com/jprivera49/Bellybutton-Biodiversity-Challenge/master/bar_chart.PNG)
 
+-------------------------------------------------------------------------------------------------------------------------
 ### Gauge Chart
 ![gauge_chart](https://raw.githubusercontent.com/jprivera49/Bellybutton-Biodiversity-Challenge/master/scrubs_per_week.PNG)
 
+-------------------------------------------------------------------------------------------------------------------------
 ### Bubble Chart
 ![bubble_chart](https://raw.githubusercontent.com/jprivera49/Bellybutton-Biodiversity-Challenge/master/bubble_chart_screenshot.PNG)
